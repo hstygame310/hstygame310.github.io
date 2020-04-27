@@ -46,9 +46,9 @@ features                                  :
     description                           : Whenever new manga or new chapters are released.
     fontawesome_icon_name                 : magic
 
-  - title                                 : More thousands of manga from 10+ sources, in 8 languages
-    description                           : 
-    fontawesome_icon_name                 : link
+  - title                                 : #More thousands of manga from 10+ sources, in 8 languages
+    description                           : #
+    fontawesome_icon_name                 : #link
   
   - title                                 : More manga with categories
     description                           : Action,  Drama, Horror, Magic,...
