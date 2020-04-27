@@ -35,11 +35,9 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 We love hearing your voice. Let's contact us and stay connected!
 
-Get in touch with me for support via: [Messenger](https://m.me/416305462459391)
+Email: thuteuk97@gmail.com
 
-Email: appfeedback118@yandex.com
-
-Address: 3 Lane 68 Cau Giay Street, Quan Hoa Ward, Cau Giay District, Hanoi.
+Address: 12 Tran Dang Ninh Street, Quan Hoa Ward, Cau Giay District, Hanoi.
 
 
 
